@@ -1,0 +1,18 @@
+{
+  "title": "google_translate_shortcuts_for_firefox",
+  "name": "google_translate_shortcuts_for_firefox",
+  "version": "0.0.1",
+  "description": "shortcuts for https://translate.google.com",
+  "main": "index.js",
+  "author": "alex91ivanov@gmail.com",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "jpm run"
+  }
+}
