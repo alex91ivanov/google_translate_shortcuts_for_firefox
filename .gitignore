@@ -1,0 +1,10 @@
+__assets
+logs/*.log
+node_modules
+dist
+.tmp
+bower_components
+
+*~
+*.sublime-project
+*.sublime-workspace
